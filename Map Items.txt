@@ -1,0 +1,20 @@
+0 - Nothing
+1 - Floor
+2 - Wall
+
+A - Player start
+B - Zombie
+C - Demon
+D - Hound
+E - Boss
+F - Handgun Ammo
+G - Shotgun Ammo
+H - Assault Rifle Ammo
+I - Minigun Ammo
+J - Plasma Rifle Ammo
+K - Shotgun
+L - Assault Rifle
+M - Minigun
+N - Plasma Rifle
+O - Stimpack
+P - Medkit

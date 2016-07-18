@@ -1,0 +1,6 @@
+<screen>
+    <width>800</width>
+    <height>600</height>
+    <fullscreen>false</fullscreen>
+    <fps_limit>60</fps_limit>
+</screen>
